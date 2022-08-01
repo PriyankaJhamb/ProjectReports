@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/newsflashapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/newsflashapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/newsflashapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/fooddelivery/build" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/fooddelivery/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/fooddelivery/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/checkweather/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/checkweather/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/checkweather/build" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/flutter_phone_authentication/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/flutter_phone_authentication/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/flutter_phone_authentication/build" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/flutter_otp_auth/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/flutter_otp_auth/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/flutter_otp_auth/build" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/interestingsmallprojects/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/interestingsmallprojects/build" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/interestingsmallprojects/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/bsafe24x7/build" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/bsafe24x7/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/StudioProjects/bsafe24x7/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

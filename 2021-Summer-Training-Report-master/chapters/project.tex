@@ -1,0 +1,171 @@
+\chapter{Project: Food Delivery App}
+
+\section{Project}
+This app has many features like 
+\begin{itemize}
+	\item to order some dish from any restaurant
+	\item also adding restaurants and dishes with the access of admin
+	\item payment done online at the time of ordering.
+	\item making profile and edit when one want
+	\item image picking from camera and gallery.
+	\item Login using admin access and without admin access
+	\item user can easily see previous history of orders
+	\item data of restaurant and dishes is not static. Admin can change anytime and it will reflect to the user at that time automatically.
+	\item sending notifications using firebase 
+	\item authentification using firebase auth
+	\item user can store addresses and use when he/she is ordering.
+	\item user can easily increment or decrement the dishes.
+	
+
+\end{itemize}
+
+\section{Tech Stack Used}
+\begin{itemize}
+	\item Flutter Framework
+	\item Dart Language
+	\item Firebase (NOSQL Database)
+\end{itemize}
+\section{Main page}
+\lstinputlisting[language=C,style=mystyle, label=StudioProjects/fooddelivery/lib/main.dart]{StudioProjects/fooddelivery/lib/main.dart}
+\section{Pages}
+\subsection{Splash Page}
+\lstinputlisting[language=C,style=mystyle, label=StudioProjects/fooddelivery/lib/home/splash-page.dart]{StudioProjects/fooddelivery/lib/home/splash-page.dart}
+\subsection{Home Page}
+\lstinputlisting[language=C,style=mystyle, label=StudioProjects/fooddelivery/lib/home/home-page.dart]{StudioProjects/fooddelivery/lib/home/home-page.dart}
+\subsection{Tags Page}
+\lstinputlisting[language=C,style=mystyle, label=StudioProjects/fooddelivery/lib/home/tags-page.dart]{StudioProjects/fooddelivery/lib/pages/tags-page.dart}
+\subsection{Success Page}
+\lstinputlisting[language=C,style=mystyle, label=StudioProjects/fooddelivery/lib/home/success.dart]{StudioProjects/fooddelivery/lib/pages/success.dart}
+\subsection{Show-orders Page}
+\lstinputlisting[language=C,style=mystyle, label=StudioProjects/fooddelivery/lib/home/show-orders.dart]{StudioProjects/fooddelivery/lib/pages/show-orders.dart}
+\subsection{Restaurants Page}
+\lstinputlisting[language=C,style=mystyle, label=StudioProjects/fooddelivery/lib/home/restaurants.dart]{StudioProjects/fooddelivery/lib/pages/restaurants.dart}
+\subsection{Restaurants Data Page}
+\lstinputlisting[language=C,style=mystyle, label=StudioProjects/fooddelivery/lib/home/restaurants-data-page.dart]{StudioProjects/fooddelivery/lib/pages/restaurants-data-page.dart}
+\subsection{Dishes Page}
+\lstinputlisting[language=C,style=mystyle, label=StudioProjects/fooddelivery/lib/home/dishes-page.dart]{StudioProjects/fooddelivery/lib/pages/dishes.dart}
+\subsection{Dishes Data Page}
+\lstinputlisting[language=C,style=mystyle, label=StudioProjects/fooddelivery/lib/home/dishes-data-page.dart]{StudioProjects/fooddelivery/lib/pages/dishes-data-page.dart}
+
+\subsection{Cart Page}
+\lstinputlisting[language=C,style=mystyle, label=StudioProjects/fooddelivery/lib/home/cart-page.dart]{StudioProjects/fooddelivery/lib/pages/cart-page.dart}
+
+\subsection{Location Page}
+\lstinputlisting[language=C,style=mystyle, label=StudioProjects/fooddelivery/lib/home/location-page.dart]{StudioProjects/fooddelivery/lib/pages/location-page.dart}
+
+\subsection{More Information Order Page}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/pages/more-info-order.dart}
+\subsection{RazorPay Page}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/pages/razorpay-page.dart}
+\section{Authentication}
+\subsection{Login Page}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/auth/login-page.dart}
+\subsection{Register Page}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/auth/register-page.dart}
+\section{Profile}
+\subsection{User Profile Page}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/profile/user-profile.dart}
+\subsection{User Addresses Page}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/profile/user-addresses.dart}
+\section{Models}
+\subsection{Dish}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/model/dish.dart}
+\subsection{Restaurant}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/model/restaurant.dart}
+\subsection{Order}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/model/order.dart}
+\subsection{User}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/model/user.dart}
+\subsection{Dish Model For Cart}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/model/dish-model-for-cart.dart}
+\subsection{Address}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/model/address.dart}
+\section{Custom Widgets}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/custom-widgets/counter.dart}
+\section{Util}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/util/constants.dart}
+\section{Database}
+\lstinputlisting[language=C,style=mystyle]{StudioProjects/fooddelivery/lib/db/provider.dart}
+
+\section{Output}
+\subsection{Splash and Register Page}
+\hspace{14pt}
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/splashpage.png}}
+\hfill
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/registerpage.png}}
+
+\vspace{15pt}
+\subsection{Login Page}
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/loginpage.png}}
+\hfill
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/loginpageafterdata.png}}
+
+
+
+\vspace{10pt}
+\subsection{Profile}
+
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/myprofile.png}}
+\hfill
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/profilepageafterimage.png}}
+
+\vspace{15pt}
+
+\subsection{Restaurant and Dishes Page if access is of admin}
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/homepage.png}}
+\hfill
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/dishes.png}}
+
+\vspace{10pt}
+
+\fbox{\includegraphics[width=6.5cm, height=12.5cm]{StudioProjects/fooddelivery/output/datarestaurantpage.png}}
+\hfill
+\fbox{\includegraphics[width=6.5cm, height=12.5cm]{StudioProjects/fooddelivery/output/datarestaurantpagewithcameragallary.png}}
+
+\vspace{10pt}
+\fbox{\includegraphics[width=6.5cm, height=12.5cm]{StudioProjects/fooddelivery/output/dishesdatapage.png}}
+\hfill
+\fbox{\includegraphics[width=6.5cm, height=12.5cm]{StudioProjects/fooddelivery/output/dishesdatapagewithimape.png}}
+
+\vspace{10pt}
+\subsection{Restaurant and Dishes Page if access is of not admin}
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg}}
+\hfill
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/disheswithoutadmin.jpeg}}
+
+
+
+\vspace{10pt}
+
+\subsection{Adding Dish and Cart Page}
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/addingdish.png}}
+\hfill
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/cartpagewithoutselection.png}}
+
+\vspace{15pt}
+
+\fbox{\includegraphics[width=6.5cm, height=12.5cm]{StudioProjects/fooddelivery/output/cartpagewithselection.png}}
+\hfill
+\fbox{\includegraphics[width=6.5cm, height=12.5cm]{StudioProjects/fooddelivery/output/razorpay2.png}}
+
+
+
+\vspace{10pt}
+
+\fbox{\includegraphics[width=6.5cm, height=12.5cm]{StudioProjects/fooddelivery/output/razorpay3.png}}
+\hfill
+\fbox{\includegraphics[width=6.5cm, height=12.5cm]{StudioProjects/fooddelivery/output/razorpay.png}}
+
+\vspace{15pt}
+
+\subsection{Show Orders after clicking on More orders button on profile page}
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/showorders1.png}}
+\hfill
+\fbox{\includegraphics[width=7.5cm, height=18cm]{StudioProjects/fooddelivery/output/showorders2.png}}
+
+
+
+\subsection{Specific Order Information after clicking on View More and }
+
+\hspace{2cm}\fbox{\includegraphics[width=12cm, height=20cm,]{StudioProjects/fooddelivery/output/orderspecific.png}}
+

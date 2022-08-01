@@ -1,0 +1,1204 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.12.5)  30 DEC 2021 15:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen111
+\extrarowheight=\dimen112
+\NC@list=\toks16
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+\TX@col@width=\dimen113
+\TX@old@table=\dimen114
+\TX@old@col=\dimen115
+\TX@target=\dimen116
+\TX@delta=\dimen117
+\TX@cols=\count91
+\TX@ftn=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen118
+\lightrulewidth=\dimen119
+\cmidrulewidth=\dimen120
+\belowrulesep=\dimen121
+\belowbottomsep=\dimen122
+\aboverulesep=\dimen123
+\abovetopsep=\dimen124
+\cmidrulesep=\dimen125
+\cmidrulekern=\dimen126
+\defaultaddspace=\dimen127
+\@cmidla=\count92
+\@cmidlb=\count93
+\@aboverulesep=\dimen128
+\@belowrulesep=\dimen129
+\@thisruleclass=\count94
+\@lastruleclass=\count95
+\@thisrulewidth=\dimen130
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (483.69684pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (731.23582pt) is ignored.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen131
+\Gin@req@width=\dimen132
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/charter.sty
+Package: charter 2005/04/12 PSNFSS-v9.2a (P.Dyballa) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen133
+\Hy@linkcounter=\count96
+\Hy@pagecounter=\count97
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count98
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4383.
+Package hyperref Info: Option `colorlinks' set `false' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count99
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen134
+\Fld@menulength=\count100
+\Field@Width=\dimen135
+\Fld@charsize=\dimen136
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count101
+\c@Item=\count102
+\c@Hfootnote=\count103
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count104
+\c@bookmark@seq@number=\count105
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count106
+\lst@gtempboxa=\box26
+\lst@token=\toks19
+\lst@length=\count107
+\lst@currlwidth=\dimen137
+\lst@column=\count108
+\lst@pos=\count109
+\lst@lostspace=\dimen138
+\lst@width=\dimen139
+\lst@newlines=\count110
+\lst@lineno=\count111
+\lst@maxwidth=\dimen140
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count112
+\lst@skipnumbers=\count113
+\lst@framebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+LaTeX Font Info:    Try loading font information for T1+bch on input line 28.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1bch.fd
+File: t1bch.fd 2004/10/18 font definitions for T1/bch.
+) (./report.aux
+
+LaTeX Warning: Label `dart/Session1.dart' multiply defined.
+
+
+LaTeX Warning: Label `dart/Session1.dart' multiply defined.
+
+
+LaTeX Warning: Label `dart/Session1.dart' multiply defined.
+
+
+LaTeX Warning: Label `dart/makemytripdart' multiply defined.
+
+)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(99.58464pt, 462.3573pt, 35.56593pt)
+* v-part:(T,H,B)=(71.13188pt, 738.34903pt, 35.56593pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=462.3573pt
+* \textheight=738.34903pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=27.31465pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count114
+\scratchdimen=\dimen141
+\scratchbox=\box28
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen142
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box29
+Package hyperref Info: Link coloring OFF on input line 51.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count120
+)
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
+
+(./report.out) (./report.out)
+\@outlinefile=\write3
+\openout3 = `report.out'.
+
+\c@lstlisting=\count121
+ (./chapters/title.tex
+<images/logogne.png, id=410, 951.555pt x 1043.9pt>
+File: images/logogne.png Graphic file (type png)
+<use images/logogne.png>
+Package pdftex.def Info: images/logogne.png  used on input line 4.
+(pdftex.def)             Requested size: 142.26378pt x 156.06853pt.
+<images/auribises.jpg, id=412, 176.66pt x 176.66pt>
+File: images/auribises.jpg Graphic file (type jpg)
+<use images/auribises.jpg>
+Package pdftex.def Info: images/auribises.jpg  used on input line 29.
+(pdftex.def)             Requested size: 92.47005pt x 92.47023pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/logogne.png> <./i
+mages/auribises.jpg>])
+(./chapters/declaration.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.6 \newpage
+             [1]) (./chapters/acknow.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--20
+
+ []
+
+
+Overfull \hbox (9.20703pt too wide) in paragraph at lines 8--20
+\T1/bch/m/n/12 The con-stant guid-ance and en-cour-age-ment re-ceived from Dr. 
+Par-min-der Singh, H.O.D.(CSE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--20
+
+ []
+
+[2]) (./chapters/certificate.tex
+<images/certificate.pdf, id=428, 597.51233pt x 845.0471pt>
+File: images/certificate.pdf Graphic file (type pdf)
+<use images/certificate.pdf>
+Package pdftex.def Info: images/certificate.pdf  used on input line 9.
+(pdftex.def)             Requested size: 455.24463pt x 625.98268pt.
+
+Overfull \hbox (10.51215pt too wide) in paragraph at lines 9--10
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 12
+[] []
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 12--13
+[][] 
+ []
+
+) (./chapters/abstractpage.tex [3 <./images/certificate.pdf>]) [1]
+(./report.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (1.63202pt too wide) detected at line 40
+\T1/bch/m/n/12 2.13.10 
+ []
+
+
+Overfull \hbox (1.63202pt too wide) detected at line 41
+\T1/bch/m/n/12 2.13.11 
+ []
+
+[2
+
+]
+Overfull \hbox (1.41595pt too wide) detected at line 80
+ []\T1/bch/m/n/12 106
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 81
+ []\T1/bch/m/n/12 108
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 82
+ []\T1/bch/m/n/12 112
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 83
+ []\T1/bch/m/n/12 114
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 84
+ []\T1/bch/m/n/12 114
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 85
+ []\T1/bch/m/n/12 121
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 86
+ []\T1/bch/m/n/12 129
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 87
+ []\T1/bch/m/n/12 129
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 88
+ []\T1/bch/m/n/12 133
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 89
+ []\T1/bch/m/n/12 136
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 90
+ []\T1/bch/m/n/12 136
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 91
+ []\T1/bch/m/n/12 137
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 92
+ []\T1/bch/m/n/12 138
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 93
+ []\T1/bch/m/n/12 138
+ []
+
+[3]
+Overfull \hbox (1.41595pt too wide) detected at line 94
+ []\T1/bch/m/n/12 139
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 95
+ []\T1/bch/m/n/12 139
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 96
+ []\T1/bch/m/n/12 140
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 97
+ []\T1/bch/m/n/12 144
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 98
+ []\T1/bch/m/n/12 145
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 99
+ []\T1/bch/m/n/12 146
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 100
+ []\T1/bch/m/n/12 146
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 101
+ []\T1/bch/m/n/12 146
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 102
+ []\T1/bch/m/n/12 146
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 103
+ []\T1/bch/m/n/12 146
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 104
+ []\T1/bch/m/n/12 147
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 105
+ []\T1/bch/m/n/12 147
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 106
+ []\T1/bch/m/n/12 147
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 107
+ []\T1/bch/m/n/12 147
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `report.toc'.
+
+ [4] (./chapters/introduction.tex
+Chapter 1.
+) (./chapters/tourofdart.texpdfTeX warning (ext4): destination with the same id
+entifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Tour to Dart Programming Language} [1
+
+]
+Chapter 2.
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+LaTeX Font Info:    Try loading font information for OMS+bch on input line 22.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsbch.fd
+File: omsbch.fd 
+)
+LaTeX Font Info:    Font shape `OMS/bch/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.35 V
+      ariables store references. The variable called name contains a referen...
+[2
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.75 \begin{lstlisting}[language=C]
+                                    [3]
+LaTeX Font Info:    Font shape `OMS/bch/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 87.
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
+
+ []
+
+[4]
+Overfull \hbox (4.97362pt too wide) in paragraph at lines 152--153
+\T1/bch/m/n/12 To get the string cor-re-spond-ing to an ob-ject, Dart calls the
+ ob-ject's toString() method. 
+ []
+
+[5] [6] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+ []
+
+[9] [10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 446--447
+
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 470--470
+[]|\T1/bch/m/n/12 =   *=   /=  +=   -=
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 470--470
+[][] 
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 470--473
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--473
+
+ []
+
+[12] [13]
+Overfull \hbox (4.72055pt too wide) in paragraph at lines 568--569
+[]\T1/bch/m/n/12 assert: Dur-ing de-vel-op-ment, use an as-sert state-ment - as
+-sert(condition, op-tionalMes-
+ []
+
+[14] [15] [16] [17] [18] [19] [20]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 890.
+ (./dart/Session1.dart [21] [22])
+<dart/Output1.png, id=1285, 451.6875pt x 349.305pt>
+File: dart/Output1.png Graphic file (type png)
+<use dart/Output1.png>
+Package pdftex.def Info: dart/Output1.png  used on input line 891.
+(pdftex.def)             Requested size: 451.68639pt x 349.30414pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 891--892
+
+ []
+
+(./dart/Session2.dart [23 <./dart/Output1.png>])
+<dart/initialisationOutput.png, id=1313, 446.66875pt x 178.6675pt>
+File: dart/initialisationOutput.png Graphic file (type png)
+<use dart/initialisationOutput.png>
+Package pdftex.def Info: dart/initialisationOutput.png  used on input line 895.
+
+(pdftex.def)             Requested size: 455.24408pt x 182.10211pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 895--896
+
+ []
+
+[24 <./dart/initialisationOutput.png>] (./dart/Session2final_const.dart)
+(./dart/Session5.dart [25]) (./dart/Session7.dart [26])
+<dart/abstract.png, id=1457, 494.84875pt x 171.64125pt>
+File: dart/abstract.png Graphic file (type png)
+<use dart/abstract.png>
+Package pdftex.def Info: dart/abstract.png  used on input line 902.
+(pdftex.def)             Requested size: 455.24408pt x 157.90398pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--903
+
+ []
+
+(./dart/stringrandom.dart)
+<dart/randomgeneratestring.png, id=1458, 416.55624pt x 119.44624pt>
+File: dart/randomgeneratestring.png Graphic file (type png)
+<use dart/randomgeneratestring.png>
+Package pdftex.def Info: dart/randomgeneratestring.png  used on input line 905.
+
+(pdftex.def)             Requested size: 455.24408pt x 130.54556pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 905--906
+
+ []
+
+[27 <./dart/abstract.png> <./dart/randomgeneratestring.png>]
+(./dart/Session1HW.dart [28])
+<dart/waterbottleOutput.png, id=1537, 596.2275pt x 132.495pt>
+File: dart/waterbottleOutput.png Graphic file (type png)
+<use dart/waterbottleOutput.png>
+Package pdftex.def Info: dart/waterbottleOutput.png  used on input line 909.
+(pdftex.def)             Requested size: 455.24408pt x 101.16626pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 909--910
+
+ []
+
+(./dart/Assignment1CovidCasesTabularform.dart [29 <./dart/waterbottleOutput.png
+>] [30] [31] [32])
+<dart/covidcases.png, id=1747, 985.6825pt x 599.23875pt>
+File: dart/covidcases.png Graphic file (type png)
+<use dart/covidcases.png>
+Package pdftex.def Info: dart/covidcases.png  used on input line 912.
+(pdftex.def)             Requested size: 455.24408pt x 276.76869pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--913
+
+ []
+
+(./dart/makemytrip.dart [33 <./dart/covidcases.png>] [34])
+<dart/makemytrip.png, id=1831, 745.78625pt x 160.6pt>
+File: dart/makemytrip.png Graphic file (type png)
+<use dart/makemytrip.png>
+Package pdftex.def Info: dart/makemytrip.png  used on input line 915.
+(pdftex.def)             Requested size: 455.24408pt x 98.03201pt.
+)
+(./chapters/flutter.tex
+Underfull \hbox (badness 10000) in paragraph at lines 915--1
+
+ []
+
+[35 <./dart/makemytrip.png>]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+[36
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 35--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 64--68
+
+ []
+
+(./dart/Session8.dart [38] [39])
+<dart/flutterdemo.png, id=1952, 425.59pt x 538.01pt>
+File: dart/flutterdemo.png Graphic file (type png)
+<use dart/flutterdemo.png>
+Package pdftex.def Info: dart/flutterdemo.png  used on input line 69.
+(pdftex.def)             Requested size: 455.24408pt x 575.52545pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+[40] (./dart/Assignment2Loader [41 <./dart/flutterdemo.png>])
+<dart/loader.png, id=2007, 428.60126pt x 528.97626pt>
+File: dart/loader.png Graphic file (type png)
+<use dart/loader.png>
+Package pdftex.def Info: dart/loader.png  used on input line 73.
+(pdftex.def)             Requested size: 227.62192pt x 227.61678pt.
+)
+(./chapters/project.tex [42 <./dart/loader.png>]
+Chapter 4.
+(./StudioProjects/fooddelivery/lib/main.dart [43
+
+] [44] [45]) [46]
+(./StudioProjects/fooddelivery/lib/home/splash-page.dart [47])
+(./StudioProjects/fooddelivery/lib/home/home-page.dart [48] [49] [50] [51]
+[52]) (./StudioProjects/fooddelivery/lib/pages/tags-page.dart [53] [54]
+[55]) (./StudioProjects/fooddelivery/lib/pages/success.dart) [56]
+(./StudioProjects/fooddelivery/lib/pages/show-orders.dart [57] [58]) [59]
+(./StudioProjects/fooddelivery/lib/pages/restaurants.dart [60] [61] [62]
+[63]) (./StudioProjects/fooddelivery/lib/pages/restaurants-data-page.dart
+[64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74])
+(./StudioProjects/fooddelivery/lib/pages/dishes.dart [75] [76] [77] [78]
+[79] [80]) (./StudioProjects/fooddelivery/lib/pages/dishes-data-page.dart
+[81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93])
+(./StudioProjects/fooddelivery/lib/pages/cart-page.dart [94] [95] [96] [97]
+[98] [99] [100] [101] [102] [103] [104] [105])
+(./StudioProjects/fooddelivery/lib/pages/location-page.dart [106]) [107]
+(./StudioProjects/fooddelivery/lib/pages/more-info-order.dart [108] [109]
+[110] [111]) (./StudioProjects/fooddelivery/lib/pages/razorpay-page.dart
+[112] [113]) (./StudioProjects/fooddelivery/lib/auth/login-page.dart [114]
+[115] [116] [117] [118] [119] [120])
+(./StudioProjects/fooddelivery/lib/auth/register-page.dart [121] [122] [123]
+[124] [125] [126] [127] [128])
+(./StudioProjects/fooddelivery/lib/profile/user-profile.dart [129] [130]
+[131] [132]) (./StudioProjects/fooddelivery/lib/profile/user-addresses.dart
+[133] [134] [135]) (./StudioProjects/fooddelivery/lib/model/dish.dart [136])
+(./StudioProjects/fooddelivery/lib/model/restaurant.dart) [137]
+(./StudioProjects/fooddelivery/lib/model/order.dart)
+(./StudioProjects/fooddelivery/lib/model/user.dart [138])
+(./StudioProjects/fooddelivery/lib/model/dish-model-for-cart.dart)
+(./StudioProjects/fooddelivery/lib/model/address.dart [139])
+(./StudioProjects/fooddelivery/lib/custom-widgets/counter.dart [140] [141]
+[142] [143]) (./StudioProjects/fooddelivery/lib/util/constants.dart [144])
+(./StudioProjects/fooddelivery/lib/db/provider.dart [145])
+<StudioProjects/fooddelivery/output/splashpage.png, id=7488, 722.7pt x 1606.0pt
+>
+File: StudioProjects/fooddelivery/output/splashpage.png Graphic file (type png)
+
+<use StudioProjects/fooddelivery/output/splashpage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/splashpage.png  use
+d on input line 93.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/registerpage.png, id=7489, 722.7pt x 1606.0
+pt>
+File: StudioProjects/fooddelivery/output/registerpage.png Graphic file (type pn
+g)
+<use StudioProjects/fooddelivery/output/registerpage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/registerpage.png  u
+sed on input line 95.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+ [146]
+<StudioProjects/fooddelivery/output/loginpage.png, id=7518, 722.7pt x 1606.0pt>
+
+File: StudioProjects/fooddelivery/output/loginpage.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/loginpage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/loginpage.png  used
+ on input line 99.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/loginpageafterdata.png, id=7519, 722.7pt x 
+1606.0pt>
+File: StudioProjects/fooddelivery/output/loginpageafterdata.png Graphic file (t
+ype png)
+<use StudioProjects/fooddelivery/output/loginpageafterdata.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/loginpageafterdata.
+png  used on input line 101.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+ [147 <./StudioProjects/fooddelivery/output/splashpage.png> <./StudioProjects/f
+ooddelivery/output/registerpage.png>]
+<StudioProjects/fooddelivery/output/myprofile.png, id=7524, 722.7pt x 1606.0pt>
+
+File: StudioProjects/fooddelivery/output/myprofile.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/myprofile.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/myprofile.png  used
+ on input line 108.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/profilepageafterimage.png, id=7525, 722.7pt
+ x 1606.0pt>
+File: StudioProjects/fooddelivery/output/profilepageafterimage.png Graphic file
+ (type png)
+<use StudioProjects/fooddelivery/output/profilepageafterimage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/profilepageafterima
+ge.png  used on input line 110.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+ [148 <./StudioProjects/fooddelivery/output/loginpage.png> <./StudioProjects/fo
+oddelivery/output/loginpageafterdata.png>]
+<StudioProjects/fooddelivery/output/homepage.png, id=7530, 722.7pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/homepage.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/homepage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/homepage.png  used 
+on input line 115.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/dishes.png, id=7531, 722.7pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/dishes.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/dishes.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/dishes.png  used on
+ input line 117.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+ [149 <./StudioProjects/fooddelivery/output/myprofile.png> <./StudioProjects/fo
+oddelivery/output/profilepageafterimage.png>]
+<StudioProjects/fooddelivery/output/datarestaurantpage.png, id=7537, 722.7pt x 
+1606.0pt>
+File: StudioProjects/fooddelivery/output/datarestaurantpage.png Graphic file (t
+ype png)
+<use StudioProjects/fooddelivery/output/datarestaurantpage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/datarestaurantpage.
+png  used on input line 121.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+<StudioProjects/fooddelivery/output/datarestaurantpagewithcameragallary.png, id
+=7538, 722.7pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/datarestaurantpagewithcameragallary.pn
+g Graphic file (type png)
+<use StudioProjects/fooddelivery/output/datarestaurantpagewithcameragallary.png
+>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/datarestaurantpagew
+ithcameragallary.png  used on input line 123.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+ [150 <./StudioProjects/fooddelivery/output/homepage.png> <./StudioProjects/foo
+ddelivery/output/dishes.png>]
+<StudioProjects/fooddelivery/output/dishesdatapage.png, id=7543, 722.7pt x 1606
+.0pt>
+File: StudioProjects/fooddelivery/output/dishesdatapage.png Graphic file (type 
+png)
+<use StudioProjects/fooddelivery/output/dishesdatapage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/dishesdatapage.png 
+ used on input line 126.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+<StudioProjects/fooddelivery/output/dishesdatapagewithimape.png, id=7544, 722.7
+pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/dishesdatapagewithimape.png Graphic fi
+le (type png)
+<use StudioProjects/fooddelivery/output/dishesdatapagewithimape.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/dishesdatapagewithi
+mape.png  used on input line 128.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+ [151 <./StudioProjects/fooddelivery/output/datarestaurantpage.png> <./StudioPr
+ojects/fooddelivery/output/datarestaurantpagewithcameragallary.png> <./StudioPr
+ojects/fooddelivery/output/dishesdatapage.png> <./StudioProjects/fooddelivery/o
+utput/dishesdatapagewithimape.png>]
+<StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg, id=7549, 722.7
+pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg Graphic fi
+le (type jpg)
+<use StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/restaurantwithoutad
+min.jpeg  used on input line 132.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/disheswithoutadmin.jpeg, id=7550, 722.7pt x
+ 1606.0pt>
+File: StudioProjects/fooddelivery/output/disheswithoutadmin.jpeg Graphic file (
+type jpg)
+<use StudioProjects/fooddelivery/output/disheswithoutadmin.jpeg>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/disheswithoutadmin.
+jpeg  used on input line 134.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/addingdish.png, id=7551, 722.7pt x 1606.0pt
+>
+File: StudioProjects/fooddelivery/output/addingdish.png Graphic file (type png)
+
+<use StudioProjects/fooddelivery/output/addingdish.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/addingdish.png  use
+d on input line 141.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/cartpagewithoutselection.png, id=7552, 722.
+7pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/cartpagewithoutselection.png Graphic f
+ile (type png)
+<use StudioProjects/fooddelivery/output/cartpagewithoutselection.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/cartpagewithoutsele
+ction.png  used on input line 143.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+ [152 <./StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg> <./Stu
+dioProjects/fooddelivery/output/disheswithoutadmin.jpeg>]
+<StudioProjects/fooddelivery/output/cartpagewithselection.png, id=7557, 722.7pt
+ x 1606.0pt>
+File: StudioProjects/fooddelivery/output/cartpagewithselection.png Graphic file
+ (type png)
+<use StudioProjects/fooddelivery/output/cartpagewithselection.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/cartpagewithselecti
+on.png  used on input line 147.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+<StudioProjects/fooddelivery/output/razorpay2.png, id=7558, 722.7pt x 1606.0pt>
+
+File: StudioProjects/fooddelivery/output/razorpay2.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/razorpay2.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/razorpay2.png  used
+ on input line 149.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+
+[153 <./StudioProjects/fooddelivery/output/addingdish.png> <./StudioProjects/fo
+oddelivery/output/cartpagewithoutselection.png>]
+<StudioProjects/fooddelivery/output/razorpay3.png, id=7563, 722.7pt x 1606.0pt>
+
+File: StudioProjects/fooddelivery/output/razorpay3.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/razorpay3.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/razorpay3.png  used
+ on input line 155.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+<StudioProjects/fooddelivery/output/razorpay.png, id=7564, 722.7pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/razorpay.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/razorpay.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/razorpay.png  used 
+on input line 157.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+ [154 <./StudioProjects/fooddelivery/output/cartpagewithselection.png> <./Studi
+oProjects/fooddelivery/output/razorpay2.png> <./StudioProjects/fooddelivery/out
+put/razorpay3.png> <./StudioProjects/fooddelivery/output/razorpay.png>]
+<StudioProjects/fooddelivery/output/showorders1.png, id=7569, 722.7pt x 1606.0p
+t>
+File: StudioProjects/fooddelivery/output/showorders1.png Graphic file (type png
+)
+<use StudioProjects/fooddelivery/output/showorders1.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/showorders1.png  us
+ed on input line 162.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/showorders2.png, id=7570, 722.7pt x 1606.0p
+t>
+File: StudioProjects/fooddelivery/output/showorders2.png Graphic file (type png
+)
+<use StudioProjects/fooddelivery/output/showorders2.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/showorders2.png  us
+ed on input line 164.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/orderspecific.png, id=7571, 722.7pt x 1606.
+0pt>
+File: StudioProjects/fooddelivery/output/orderspecific.png Graphic file (type p
+ng)
+<use StudioProjects/fooddelivery/output/orderspecific.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/orderspecific.png  
+used on input line 170.
+(pdftex.def)             Requested size: 341.43344pt x 569.06801pt.
+) (./chapters/conclusion.tex [155 <./StudioProjects/fooddelivery/output/showord
+ers1.png> <./StudioProjects/fooddelivery/output/showorders2.png>] [156 <./Studi
+oProjects/fooddelivery/output/orderspecific.png>]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+) (./chapters/ref.tex [157
+
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
+ [158
+
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
+ (./report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 76C01A48593E579B7E30E9672322AA97;7246.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
+ ) 
+Here is how much of TeX's memory you used:
+ 16604 strings out of 494923
+ 262300 string characters out of 6180742
+ 882169 words of memory out of 5000000
+ 13110 multiletter control sequences out of 15000+600000
+ 43643 words of font info for 60 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 33i,9n,51p,1423b,1798s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/symbols/msam10.pfb>
+Output written on report.pdf (166 pages, 3759287 bytes).
+PDF statistics:
+ 8939 PDF objects out of 10688 (max. 8388607)
+ 8630 compressed objects within 87 object streams
+ 6519 named destinations out of 7423 (max. 500000)
+ 984 words of extra memory for PDF output out of 10000 (max. 10000000)
+

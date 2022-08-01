@@ -1,0 +1,101 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Dart}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Flutter}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Tour to Dart Programming Language}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Language sample}{chapter.2}% 5
+\BOOKMARK [2][-]{subsection.2.1.1}{Hello World}{section.2.1}% 6
+\BOOKMARK [1][-]{section.2.2}{Comments}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.1}{Single Line Comments}{section.2.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.2}{Multi-Line Comments}{section.2.2}% 9
+\BOOKMARK [1][-]{section.2.3}{Return Type}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.4}{Declaring variables}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.5}{Default value}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.6}{Assert Statements}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.7}{Late variables}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.8}{Final and const}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.9}{Built-in types}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.9.1}{Numbers}{section.2.9}% 17
+\BOOKMARK [1][-]{section.2.10}{Functions}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.10.1}{Parameters}{section.2.10}% 19
+\BOOKMARK [2][-]{subsection.2.10.2}{main\(\)}{section.2.10}% 20
+\BOOKMARK [2][-]{subsection.2.10.3}{Functions as first-class objects}{section.2.10}% 21
+\BOOKMARK [1][-]{section.2.11}{Operators}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.12}{Control flow statements}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.13}{Classes}{chapter.2}% 24
+\BOOKMARK [2][-]{subsection.2.13.1}{Using class members}{section.2.13}% 25
+\BOOKMARK [2][-]{subsection.2.13.2}{Getting an object's type}{section.2.13}% 26
+\BOOKMARK [2][-]{subsection.2.13.3}{Instance variables}{section.2.13}% 27
+\BOOKMARK [2][-]{subsection.2.13.4}{Constructors}{section.2.13}% 28
+\BOOKMARK [2][-]{subsection.2.13.5}{Getters and setters}{section.2.13}% 29
+\BOOKMARK [2][-]{subsection.2.13.6}{Abstract methods}{section.2.13}% 30
+\BOOKMARK [2][-]{subsection.2.13.7}{Abstract classes}{section.2.13}% 31
+\BOOKMARK [2][-]{subsection.2.13.8}{Extending a class}{section.2.13}% 32
+\BOOKMARK [2][-]{subsection.2.13.9}{Overriding members}{section.2.13}% 33
+\BOOKMARK [2][-]{subsection.2.13.10}{Adding features to a class: mixins}{section.2.13}% 34
+\BOOKMARK [2][-]{subsection.2.13.11}{Class variables and methods}{section.2.13}% 35
+\BOOKMARK [1][-]{section.2.14}{Some Important Cases}{chapter.2}% 36
+\BOOKMARK [2][-]{subsection.2.14.1}{Related to Variables initialisation or assigning and Unicode Character Tables}{section.2.14}% 37
+\BOOKMARK [2][-]{subsection.2.14.2}{tostring function, Runtimetype, Initialisation before Use Principale and using ? operator }{section.2.14}% 38
+\BOOKMARK [2][-]{subsection.2.14.3}{final and const}{section.2.14}% 39
+\BOOKMARK [2][-]{subsection.2.14.4}{Difference between exit and return \046 Named parameters}{section.2.14}% 40
+\BOOKMARK [2][-]{subsection.2.14.5}{Abstract Class Real Life Example}{section.2.14}% 41
+\BOOKMARK [2][-]{subsection.2.14.6}{Use of 'dart:math' and generate random string}{section.2.14}% 42
+\BOOKMARK [1][-]{section.2.15}{Assignment}{chapter.2}% 43
+\BOOKMARK [2][-]{subsection.2.15.1}{A Program For Water Bottle Sensor using basic variables and control function}{section.2.15}% 44
+\BOOKMARK [2][-]{subsection.2.15.2}{A Program to sort the covid cases according to the Active, Confirmed, Recovered, Deceased and Tested}{section.2.15}% 45
+\BOOKMARK [2][-]{subsection.2.15.3}{A Program for small case study of website makemytrip using inheritance and classes concept}{section.2.15}% 46
+\BOOKMARK [0][-]{chapter.3}{Flutter}{}% 47
+\BOOKMARK [1][-]{section.3.1}{Flutter Install}{chapter.3}% 48
+\BOOKMARK [2][-]{subsection.3.1.1}{System Requirements in Linux}{section.3.1}% 49
+\BOOKMARK [2][-]{subsection.3.1.2}{Get the Flutter SDK}{section.3.1}% 50
+\BOOKMARK [2][-]{subsection.3.1.3}{Run flutter doctor}{section.3.1}% 51
+\BOOKMARK [2][-]{subsection.3.1.4}{Update your path}{section.3.1}% 52
+\BOOKMARK [1][-]{section.3.2}{Android setup}{chapter.3}% 53
+\BOOKMARK [1][-]{section.3.3}{Create the app}{chapter.3}% 54
+\BOOKMARK [1][-]{section.3.4}{Write your first Flutter app}{chapter.3}% 55
+\BOOKMARK [2][-]{subsection.3.4.1}{Loader}{section.3.4}% 56
+\BOOKMARK [0][-]{chapter.4}{Project: Food Delivery App}{}% 57
+\BOOKMARK [1][-]{section.4.1}{Project}{chapter.4}% 58
+\BOOKMARK [1][-]{section.4.2}{Tech Stack Used}{chapter.4}% 59
+\BOOKMARK [1][-]{section.4.3}{Main page}{chapter.4}% 60
+\BOOKMARK [1][-]{section.4.4}{Pages}{chapter.4}% 61
+\BOOKMARK [2][-]{subsection.4.4.1}{Splash Page}{section.4.4}% 62
+\BOOKMARK [2][-]{subsection.4.4.2}{Home Page}{section.4.4}% 63
+\BOOKMARK [2][-]{subsection.4.4.3}{Tags Page}{section.4.4}% 64
+\BOOKMARK [2][-]{subsection.4.4.4}{Success Page}{section.4.4}% 65
+\BOOKMARK [2][-]{subsection.4.4.5}{Show-orders Page}{section.4.4}% 66
+\BOOKMARK [2][-]{subsection.4.4.6}{Restaurants Page}{section.4.4}% 67
+\BOOKMARK [2][-]{subsection.4.4.7}{Restaurants Data Page}{section.4.4}% 68
+\BOOKMARK [2][-]{subsection.4.4.8}{Dishes Page}{section.4.4}% 69
+\BOOKMARK [2][-]{subsection.4.4.9}{Dishes Data Page}{section.4.4}% 70
+\BOOKMARK [2][-]{subsection.4.4.10}{Cart Page}{section.4.4}% 71
+\BOOKMARK [2][-]{subsection.4.4.11}{Location Page}{section.4.4}% 72
+\BOOKMARK [2][-]{subsection.4.4.12}{More Information Order Page}{section.4.4}% 73
+\BOOKMARK [2][-]{subsection.4.4.13}{RazorPay Page}{section.4.4}% 74
+\BOOKMARK [1][-]{section.4.5}{Authentication}{chapter.4}% 75
+\BOOKMARK [2][-]{subsection.4.5.1}{Login Page}{section.4.5}% 76
+\BOOKMARK [2][-]{subsection.4.5.2}{Register Page}{section.4.5}% 77
+\BOOKMARK [1][-]{section.4.6}{Profile}{chapter.4}% 78
+\BOOKMARK [2][-]{subsection.4.6.1}{User Profile Page}{section.4.6}% 79
+\BOOKMARK [2][-]{subsection.4.6.2}{User Addresses Page}{section.4.6}% 80
+\BOOKMARK [1][-]{section.4.7}{Models}{chapter.4}% 81
+\BOOKMARK [2][-]{subsection.4.7.1}{Dish}{section.4.7}% 82
+\BOOKMARK [2][-]{subsection.4.7.2}{Restaurant}{section.4.7}% 83
+\BOOKMARK [2][-]{subsection.4.7.3}{Order}{section.4.7}% 84
+\BOOKMARK [2][-]{subsection.4.7.4}{User}{section.4.7}% 85
+\BOOKMARK [2][-]{subsection.4.7.5}{Dish Model For Cart}{section.4.7}% 86
+\BOOKMARK [2][-]{subsection.4.7.6}{Address}{section.4.7}% 87
+\BOOKMARK [1][-]{section.4.8}{Custom Widgets}{chapter.4}% 88
+\BOOKMARK [1][-]{section.4.9}{Util}{chapter.4}% 89
+\BOOKMARK [1][-]{section.4.10}{Database}{chapter.4}% 90
+\BOOKMARK [1][-]{section.4.11}{Output}{chapter.4}% 91
+\BOOKMARK [2][-]{subsection.4.11.1}{Splash and Register Page}{section.4.11}% 92
+\BOOKMARK [2][-]{subsection.4.11.2}{Login Page}{section.4.11}% 93
+\BOOKMARK [2][-]{subsection.4.11.3}{Profile}{section.4.11}% 94
+\BOOKMARK [2][-]{subsection.4.11.4}{Restaurant and Dishes Page if access is of admin}{section.4.11}% 95
+\BOOKMARK [2][-]{subsection.4.11.5}{Restaurant and Dishes Page if access is of not admin}{section.4.11}% 96
+\BOOKMARK [2][-]{subsection.4.11.6}{Adding Dish and Cart Page}{section.4.11}% 97
+\BOOKMARK [2][-]{subsection.4.11.7}{Show Orders after clicking on More orders button on profile page}{section.4.11}% 98
+\BOOKMARK [2][-]{subsection.4.11.8}{Specific Order Information after clicking on View More and }{section.4.11}% 99
+\BOOKMARK [0][-]{chapter.5}{Conclusion}{}% 100
+\BOOKMARK [0][-]{section*.10}{References}{}% 101

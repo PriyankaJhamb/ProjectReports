@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/checkweather/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/checkweather/build" />
+      <excludeFolder url="file://$MODULE_DIR$/fooddelivery/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/fooddelivery/build" />
+      <excludeFolder url="file://$MODULE_DIR$/newsflashapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/newsflashapp/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
